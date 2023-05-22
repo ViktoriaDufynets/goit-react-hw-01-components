@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/css/main.dfd238bd.css",
-    "main.js": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/js/main.a745de0c.js",
+    "main.js": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/js/main.58b0448a.js",
     "index.html": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/index.html",
     "main.dfd238bd.css.map": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/css/main.dfd238bd.css.map",
-    "main.a745de0c.js.map": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/js/main.a745de0c.js.map"
+    "main.58b0448a.js.map": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/js/main.58b0448a.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd238bd.css",
-    "static/js/main.a745de0c.js"
+    "static/js/main.58b0448a.js"
   ]
 }
