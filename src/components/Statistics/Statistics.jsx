@@ -1,4 +1,4 @@
-import css from './statistics.module.css';
+import css from './Statistics.module.css';
 
 function getRandomColor() {
     const letters = '0123456789ABCDEF';
