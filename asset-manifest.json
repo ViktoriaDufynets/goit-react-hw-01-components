@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/css/main.1a2c913b.css",
-    "main.js": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/js/main.3cdc5721.js",
+    "main.css": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/css/main.ec61df5a.css",
+    "main.js": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/js/main.7bd01f69.js",
     "index.html": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/index.html",
-    "main.1a2c913b.css.map": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/css/main.1a2c913b.css.map",
-    "main.3cdc5721.js.map": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/js/main.3cdc5721.js.map"
+    "main.ec61df5a.css.map": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/css/main.ec61df5a.css.map",
+    "main.7bd01f69.js.map": "/ViktoriaDufynets.github.io/goit-react-hw-01-components/static/js/main.7bd01f69.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a2c913b.css",
-    "static/js/main.3cdc5721.js"
+    "static/css/main.ec61df5a.css",
+    "static/js/main.7bd01f69.js"
   ]
 }
