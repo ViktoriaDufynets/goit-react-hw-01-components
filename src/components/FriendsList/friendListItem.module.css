@@ -1,0 +1,33 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+  
+  .statusTrue {
+    margin-bottom: 10px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: #1b9c26;
+  }
+  
+  .statusFalse {
+    margin-bottom: 10px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: #a82929;
+  }
+  
+  .avatar {
+    padding: 15px;
+    border: 1px solid #ccc;
+  }
+  
+  .name {
+    font-size: 20px;
+    font-weight: 700;
+  }
