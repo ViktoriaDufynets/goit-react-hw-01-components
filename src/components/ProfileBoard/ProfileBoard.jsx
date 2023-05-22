@@ -1,4 +1,4 @@
-import css from './profileBoard.module.css';
+import css from './ProfileBoard.module.css';
 
 
 export const ProfileBoard = ({profiles}) => {
